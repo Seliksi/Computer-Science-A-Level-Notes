@@ -8,4 +8,4 @@ The ['structure'](CPU%20structure.md) (also refered to as <u>'architecture'</u>)
 The ['architecture'](CPU%20architecture.md) of the CPU can **also** be used to describes the categorical specialisation of how memory is shared between programs and data. The most common architectures are: 
 - The [von Neumann architecture](<Von Neumann architecture>) 
 - The [Harvard architecture](<Harvard architecture>)
-- The [contemporary processor architecture](<Contemporary processor architecture>) <span style="color:gray">(a combination of both the von Neumann and Harvard architectures; most commonly used in practice)</span>
+- The Contemporary processor architecture <span style="color:gray">(a combination of both the von Neumann and Harvard architectures; most commonly used in practice)</span>
