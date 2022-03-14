@@ -1,5 +1,5 @@
 ### The CPU (Central Processing Unit)
-The CPU is the main [processor](Processor) of the computer system. It is the component which is generally responsible for [executing instructions on data](<Fetch, Decode, Execute cycle>) - a process who's exact order and structure is determined by the code of the program which is being ran. As a CPU is a *digitial* electronic device, both the instructions and data are internally represented as [binary](Binary) numbers. When formatted in [binary](Binary), the program is said to be [machine code](<Machine code>), and the instructions and data are [opcodes](Opcodes) and [operands](Operands) respectively.
+The CPU is the main [processor](Processor) of the computer system. It is the component which is generally responsible for [executing instructions on data](<Fetch, Decode, Execute cycle>) - a process who's exact order and structure is determined by the code of the program which is being ran. As a CPU is a *digitial* electronic device, both the instructions and data are internally represented as [binary](Binary) numbers. When formatted in [binary](Binary), the program is said to be [machine code](<Machine code>), and the instructions and data are [opcodes and operands](<Opcodes and Operands>) respectively.
 
 ***
 ##### CPU Structure, Types and Architecture
@@ -9,3 +9,5 @@ The ['architecture'](CPU%20architecture.md) of the CPU can **also** be used to d
 - The [von Neumann architecture](<Von Neumann architecture>) 
 - The [Harvard architecture](<Harvard architecture>)
 - The Contemporary processor architecture <span style="color:gray">(a combination of both the von Neumann and Harvard architectures; most commonly used in practice)</span>
+
+#Component1-Section1
