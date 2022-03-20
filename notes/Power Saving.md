@@ -1,0 +1,4 @@
+There are many solutions to reducing the energy wasted by devices:
+- Most modern devices include 'sleep' or 'hybernation' modes to reduce their power consumption when idle.
+- Users may be encouraged to be attentive in not leaving their devices opertating when they aren't in use for extended periods of time, such as overnight.
+- To save power for large servers hosts, virtual servers can be used. These are software based partitions, multiple of which can run on one physical server, which each act as independent server. The advantage of these over having multiple seperate physical servers is that this allows the singular physical server to operate closer to 100% usage of its potential processing power, which is more efficient than many physical servers running at a low percentage-of-potential useage.
